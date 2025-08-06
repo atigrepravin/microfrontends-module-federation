@@ -134,12 +134,3 @@ The **Module Federation Plugin** is what makes this architecture possible.
 
 -----
 
-## 📬 Feedback or Contributions?
-
-If you have any feedback or want to contribute, please feel free to open an issue or a pull request.
-
------
-
-## 🪪 License
-
-This project is licensed under the **MIT License**.
